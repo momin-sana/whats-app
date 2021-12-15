@@ -40,7 +40,8 @@ function Header() {
         /div> <
         div className = "flex" >
         <
-        button onClick = {!user ? signIn : () => navigate("/channels") } > Login < /button> <
+        button className = "bg-white p-2 rounded-full text-xs md:text-xs px-4 focus:outline-non hover:shadow-2xl hover:text-discord_blue"
+        onClick = {!user ? signIn : () => navigate("/channels") } > {!user ? "Login" : "Open Discord" } < /button> <
         /div> <
         /header>
     );
