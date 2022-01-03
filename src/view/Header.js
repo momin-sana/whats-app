@@ -32,10 +32,10 @@ function Header() {
         /a> <
         div className = "hidden lg:flex space-x-6" >
         <
-        a className = "link" > Download < /a> <
-        a className = "link" > Why Discord < /a> <
-        a className = "link" > Nitro < /a> <
-        a className = "link" > Safety < /a> <
+        a className = "link" > Download < /a> <a className="link"> Why Discord </a >
+        <
+        a className = "link" > Nitro < /a> <a className="link"> Safety </a >
+        <
         a className = "link" > Support < /a> <
         /div> <
         div className = "flex" >
