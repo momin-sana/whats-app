@@ -1,3 +1,19 @@
+# CHATTING CLONE learned from Omni Institute
+This was my first ever dployed chatting app with ReactJS 
+
+## techs used in this project
+> ReactJS (for coding)
+> React-Redux
+> Tailwindcss (to apply css)
+> Firebase (to store data)
+> GitHub 
+> Color Hunt 
+
+## Project Directory
+In this project you can sign-in with google authentication. Chat on real-timestamp.
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
